@@ -1,0 +1,5 @@
+Xin chào Khánh,
+
+Đây là email tự động gửi bằng Python.
+
+Trân trọng,
